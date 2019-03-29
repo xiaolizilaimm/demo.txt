@@ -1,2 +1,0 @@
-//1.配置用户姓名和邮箱
-git config --global user.name "lizhuang"
